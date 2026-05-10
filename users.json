@@ -1,8 +1,8 @@
 {
   "alinasniga": {
     "status": "active",
-    "expire": "15.05.2026",
-    "extra": false
+    "expire": "21.06.9999",
+    "extra": true
   },
   
   "egish": {
