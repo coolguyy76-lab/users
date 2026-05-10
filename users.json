@@ -1,4 +1,10 @@
 {
+  
+  "egish": {
+    "status": "active",
+    "expire": "15.05.2026",
+    "extra": false
+  },
   "nastyazol": {
     "status": "active",
     "expire": "01.01.2027",
@@ -102,7 +108,7 @@
   "napon": {
     "status": "active",
     "expire": "01.01.2027",
-    "extra": false
+    "extra": true
   },
   "sashakond": {
     "status": "active",
@@ -120,9 +126,9 @@
     "extra": false
   },
   "svoi": {
-    "status": "active",
-    "expire": "01.01.2027",
-    "extra": true
+    "status": "blocked",
+    "expire": "01.01.2025",
+    "extra": false
   },
   "lev": {
     "status": "active",
@@ -160,8 +166,8 @@
     "extra": false
   },
   "sergey": {
-    "status": "active",
-    "expire": "01.01.2027",
+    "status": "acitve",
+    "expire": "15.05.2027",
     "extra": false
   },
   "dashatg": {
