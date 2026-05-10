@@ -1,4 +1,9 @@
 {
+  "irinakh": {
+    "status": "active",
+    "expire": "01.01.9999",
+    "extra": true
+  },
   "alinasniga": {
     "status": "active",
     "expire": "21.06.9999",
