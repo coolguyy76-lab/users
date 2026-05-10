@@ -122,7 +122,7 @@
   "svoi": {
     "status": "active",
     "expire": "01.01.2027",
-    "extra": false
+    "extra": true
   },
   "lev": {
     "status": "active",
