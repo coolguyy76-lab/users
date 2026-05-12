@@ -136,8 +136,8 @@
     "extra": false
   },
   "svoi": {
-    "status": "active",
-    "expire": "01.01.2027",
+    "status": "blocked",
+    "expire": "01.01.2025",
     "extra": false
   },
   "lev": {
