@@ -1,4 +1,9 @@
 {
+  "darjaSI": {
+    "status": "active",
+    "expire": "17.06.2026",
+    "extra": true
+  },
   "surkov": {
     "status": "active",
     "expire": "01.01.9999",
