@@ -152,8 +152,8 @@
   },
   "argishti2": {
     "status": "active",
-    "expire": "13.06.2026",
-    "extra": false
+    "expire": "01.01.9999",
+    "extra": true
   },
   "lev": {
     "status": "active",
