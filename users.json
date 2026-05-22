@@ -1,4 +1,9 @@
 {
+  "nikita2": {
+    "status": "active",
+    "expire": "22.06.2040",
+    "extra": false
+  },
   "zhenyasveta": {
     "status": "active",
     "expire": "22.06.2040",
