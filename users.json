@@ -12,27 +12,27 @@
   "alinatvkuh": {
     "status": "active",
     "expire": "17.06.2040",
-    "extra": true
+    "extra": false
   },
   "darjaSI": {
     "status": "active",
     "expire": "17.06.2026",
-    "extra": true
+    "extra": false
   },
   "surkov": {
     "status": "active",
     "expire": "01.01.9999",
-    "extra": true
+    "extra": false
   },
   "irinakh": {
     "status": "active",
     "expire": "01.01.9999",
-    "extra": true
+    "extra": false
   },
   "alinasniga": {
     "status": "active",
     "expire": "21.06.9999",
-    "extra": true
+    "extra": false
   },
   
   "egish": {
@@ -178,7 +178,7 @@
   "zhenya": {
     "status": "active",
     "expire": "01.01.2027",
-    "extra": true
+    "extra": false
   },
   "zhenyanh": {
     "status": "active",
