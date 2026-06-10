@@ -1,4 +1,9 @@
 {
+   "shershneva": {
+    "status": "active",
+    "expire": "01.01.2040",
+    "extra": false
+  },
   "nikita2": {
     "status": "active",
     "expire": "22.06.2040",
