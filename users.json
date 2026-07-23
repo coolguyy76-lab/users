@@ -12,7 +12,7 @@
   "zhenyasveta": {
     "status": "active",
     "expire": "22.06.2040",
-    "extra": false
+    "extra": true
   },
   "alinatvkuh": {
     "status": "active",
@@ -37,7 +37,7 @@
   "alinasniga": {
     "status": "active",
     "expire": "21.06.9999",
-    "extra": false
+    "extra": true
   },
   
   "egish": {
