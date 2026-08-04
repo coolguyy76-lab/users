@@ -31,7 +31,7 @@
   },
   "darjaSI": {
     "status": "active",
-    "expire": "20.08.2026",
+    "expire": "20.09.2026",
     "extra": false
   },
   "surkov": {
@@ -193,7 +193,7 @@
   "zhenya": {
     "status": "active",
     "expire": "01.01.2027",
-    "extra": false
+    "extra": true
   },
   "zhenyanh": {
     "status": "active",
