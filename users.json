@@ -32,7 +32,7 @@
   "darjaSI": {
     "status": "active",
     "expire": "20.09.2026",
-    "extra": false
+    "extra": true
   },
   "surkov": {
     "status": "active",
